@@ -1,6 +1,9 @@
 # Obsidian
 .obsidian/
 
+# Claude
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
