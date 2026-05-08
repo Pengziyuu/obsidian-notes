@@ -211,13 +211,13 @@ graph TD
 
 ## 六、工作地點
 
-| 地點 | 主要廠區 |
-|------|---------|
-| 新竹 | 總部、研發中心 |
-| 台中 | Fab 15（先進製程） |
-| 台南 | Fab 18（最先進製程，3nm/2nm） |
-| 高雄 | Fab 22/23（新建廠區） |
-| 桃園 | 先進封裝 |
+| 地點  | 主要廠區                  |
+| --- | --------------------- |
+| 新竹  | 總部、研發中心               |
+| 台中  | Fab 15（先進製程）          |
+| 台南  | Fab 18（最先進製程，3nm/2nm） |
+| 高雄  | Fab 22/23（新建廠區）       |
+| 桃園  | 先進封裝                  |
 
 > [!info] 備註
 > 最終工作地點會在面試過程中與主管討論決定。此職位可能需要==低頻次輪值 (On-call)==，具體細節可在面試中詢問主管。
@@ -285,24 +285,24 @@ graph TD
 
 ## 八、關鍵字速查表
 
-| 縮寫 | 全稱 | 中文 |
-|------|------|------|
-| IMC | Intelligent Manufacturing Center | 智慧製造中心 |
-| APC | Advanced Process Control | 先進製程控制 |
-| AEC | Advanced Equipment Control | 先進設備控制 |
-| FDC | Fault Detection and Classification | 故障偵測與分類 |
-| SPC | Statistical Process Control | 統計製程管制 |
-| R2R | Run-to-Run Control | 批次間控制 |
-| WAT | Wafer Acceptance Test | 晶圓允收測試 |
-| CP | Circuit Probe | 電路探針測試 |
-| WIP | Work In Progress | 在製品 |
-| CMP | Chemical Mechanical Polishing | 化學機械研磨 |
-| ADC | Automatic Defect Classification | 自動缺陷分類 |
-| SDLC | Software Development Life Cycle | 軟體開發生命週期 |
-| MLOps | ML Operations | 機器學習維運 |
-| RPA | Robotic Process Automation | 機器人流程自動化 |
-| LLM | Large Language Model | 大型語言模型 |
-| RAG | Retrieval-Augmented Generation | 檢索增強生成 |
+| 縮寫    | 全稱                                 | 中文       |
+| ----- | ---------------------------------- | -------- |
+| IMC   | Intelligent Manufacturing Center   | 智慧製造中心   |
+| APC   | Advanced Process Control           | 先進製程控制   |
+| AEC   | Advanced Equipment Control         | 先進設備控制   |
+| FDC   | Fault Detection and Classification | 故障偵測與分類  |
+| SPC   | Statistical Process Control        | 統計製程管制   |
+| R2R   | Run-to-Run Control                 | 批次間控制    |
+| WAT   | Wafer Acceptance Test              | 晶圓允收測試   |
+| CP    | Circuit Probe                      | 電路探針測試   |
+| WIP   | Work In Progress                   | 在製品      |
+| CMP   | Chemical Mechanical Polishing      | 化學機械研磨   |
+| ADC   | Automatic Defect Classification    | 自動缺陷分類   |
+| SDLC  | Software Development Life Cycle    | 軟體開發生命週期 |
+| MLOps | ML Operations                      | 機器學習維運   |
+| RPA   | Robotic Process Automation         | 機器人流程自動化 |
+| LLM   | Large Language Model               | 大型語言模型   |
+| RAG   | Retrieval-Augmented Generation     | 檢索增強生成   |
 
 ---
 
